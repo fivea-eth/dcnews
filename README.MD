@@ -125,11 +125,10 @@
 
 ## 在线托管&快速体验
 
-> **第1步：进入在线托管微信群**
-> 你可以扫描下方微信二维码，加入DCNews产品体验群。
-> 若微信群二维码失效，可以添加微信：Fivea_eth，备注：DCNews产品体验。
-![Group](/Group.png)
-
-> **第2步：进入Discord，查看来自微信群的消息**
-> 点击右侧链接，进入DCNews Discord服务器：https://discord.com/invite/cAKzHRhwtZ
-> 你可以尝试在微信群内发送Hello,world，然后在Discord的DCNews-产品体验群 频道内查看最新消息的同步
+- **第1步：进入在线托管微信群**
+  你可以扫描下方微信二维码，加入DCNews产品体验群。
+  若微信群二维码失效，可以添加微信：Fivea_eth，备注：DCNews产品体验。
+  ![Group](/Group.png)
+- **第2步：进入Discord，查看来自微信群的消息**
+  点击下方链接，进入DCNews Discord服务器：https://discord.com/invite/cAKzHRhwtZ
+  你可以尝试在微信群内发送Hello,world，然后在Discord的DCNews-产品体验群 频道内查看最新消息的同步
